@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![KF-PoH's GitHub stats](https://github-readme-stats.vercel.app/api?username=KF-PoH&show_icons=true&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KF-PoH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KF-PoH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
